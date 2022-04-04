@@ -16,7 +16,7 @@
                 focus-within:border" 
         >
         <label
-            class="text-sm mb-2 text-blue-500 inline-block" 
+            class="text-sm mb-2 text-gray-500 inline-block" 
             :for="chkName"> {{ chkLabel }}</label>
     </div>
 </template>

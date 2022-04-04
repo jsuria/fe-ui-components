@@ -28,11 +28,5 @@
                 type: Boolean
             },
         },
-
-      /*  computed:{
-            setDisabledStyle(){
-                return this.btnIsDark ? "" : ""
-            }
-        } */
     }
 </script>

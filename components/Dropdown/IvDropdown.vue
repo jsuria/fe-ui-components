@@ -1,7 +1,7 @@
 <template>
     <div class="m-2 w-">
         <label 
-            class="block text-sm mb-2 text-blue-500"
+            class="block text-sm mb-2 text-gray-500"
             :for="selectName">{{ selectLabel }}</label>
         <select
             class="border 

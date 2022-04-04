@@ -1,7 +1,7 @@
 <template>
     <div class="m-2">
         <label 
-            class="block text-sm mb-2 text-blue-500"
+            class="block text-sm mb-2 text-gray-500"
             :for="inpName">{{ inpLabel }}</label>
         <input
             :name="inpName" 

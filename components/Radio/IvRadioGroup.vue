@@ -1,7 +1,7 @@
 <template>
      <div>
          <label
-            class="block text-sm mb-2 text-blue-500"
+            class="block text-sm mb-2 text-gray-500"
         >{{ rdogrpLabel }}</label>
         <iv-radio
             :horizontal=false
