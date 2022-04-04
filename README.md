@@ -1,4 +1,4 @@
-# tailwind-venn
+# venn-fe-components
 
 ## Build Setup
 
