@@ -10,14 +10,14 @@
     export default {
         props:{
             optionText:{
-                default: "Dropdown List",
+                default: "Select List",
                 type: String
             },
             optionValue:{
-                default: "dropdownList",
+                default: "selectList",
                 type: String
             }
         },
-        name:'iv-dropdown-item',
+        name:'iv-select-item',
     }
 </script>

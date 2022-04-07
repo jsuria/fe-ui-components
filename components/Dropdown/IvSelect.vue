@@ -15,7 +15,7 @@
                     focus:border
                     focus-within:border"
         >
-            <iv-dropdown-item
+            <iv-select-item
                 v-for="(item,index) in selectItems"
                 :key="index"
                 :value="item"
@@ -37,14 +37,14 @@
                 type: Array
             },
             selectLabel:{
-                default: "Dropdown List",
+                default: "Select List",
                 type: String
             },
             selectName:{
-                default: "dropdownList",
+                default: "selectList",
                 type: String
             }
         },
-        name:'iv-dropdown'
+        name:'iv-select'
     }
 </script>
